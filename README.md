@@ -31,3 +31,9 @@
 
 
 Original logic based on <b>Milk-Filter by LucaSinUnaS (MIT License)</b>.
+
+
+##РУССКИЙ
+
+# Milk-Filter-Android
+<b>Milk-filter-android</b> - Приложение для преобразования ваших фотографий в стиль игр <b>Milk Outside a bag of milk outside</b> и <b>Milk Inside a bag of milk inside</b>
