@@ -15,4 +15,4 @@
 <i>Initially, the photo field will be empty, don't be alarmed by this; after you click the apply filter button, it will appear in processed form.</i>
 
 
-Original logic based on Milk-Filter by LucaSinUnaS (MIT License).
+Original logic based on <b>Milk-Filter by LucaSinUnaS (MIT License)</b>.
