@@ -13,12 +13,13 @@
 
 # Features 
 
- - 📱 Completely rewritten in Python + Kivy for Android.
- - 🎨 Modern UI: New Material/Card UI design.
- - 🚀 Optimization: Asynchronous image processing without freezing.
- - 💾 Integration: Support for Android API for saving files and selecting photos.
+ - 📱 <b>Completely rewritten in Python + Kivy for Android.</b>
+ - 🎨 <b>Modern UI:</b> New Material/Card UI design.
+ - 🚀 <b>Optimization:</b> Asynchronous image processing without freezing.
+ - 💾 <b>Integration:</b> Support for Android API for saving files and selecting photos.
 
 # How to use
+
 <b>To convert your image, you need to follow these steps:</b>
  - Before using the app, make sure you have allowed it to access your photos and files.
  - Click to choise photo button("Выбрать фото")
@@ -36,4 +37,31 @@ Original logic based on <b>Milk-Filter by LucaSinUnaS (MIT License)</b>.
 ## РУССКИЙ
 
 # Milk-Filter-Android
-<b>Milk-filter-android</b> - Приложение для преобразования ваших фотографий в стиль игр <b>Milk Outside a bag of milk outside</b> и <b>Milk Inside a bag of milk inside</b>
+<b>Milk-filter-android</b> — приложение для стилизации ваших фотографий под визуальный стиль игр <b>Milk Inside a bag of milk inside a bag of milk</b> и <b>Milk Outside a bag of milk outside a bag of milk</b>.
+
+# Демонстрация
+
+<img src="showcase.gif">
+
+
+# Особенности
+
+ - 📱 <b>Полностью переписано на Python + Kivy специально для Android.</b>
+ - 🎨 <b>Современный интерфейс:</b> Новый дизайн в стиле Material/Card UI.
+ - 🚀 <b>Оптимизация:</b> Асинхронная обработка изображений без зависаний интерфейса.
+ - 💾 <b>Интеграция:</b> Поддержка Android API для выбора и сохранения файлов.
+
+# Инструкция
+
+<b>Чтобы обработать изображение, выполните следующие шаги:</b>
+ - Перед использованием убедитесь, что вы предоставили приложению доступ к фото и медиафайлам.
+ - Нажмите кнопку выбора фото («Выбрать фото»).
+ - Выберите параметры и режим фильтра.
+ - Нажмите кнопку применения («Применить»).
+ - Нажмите кнопку сохранения в галерею («Сохранить в галерею»).
+
+
+<i>Изначально поле предварительного просмотра будет пустым — не пугайтесь, обработанное изображение появится там сразу после нажатия кнопки «Применить».</i>
+
+
+Оригинальная логика основана на проекте <b>Milk-Filter от LucaSinUnaS (Лицензия MIT)</b>.
