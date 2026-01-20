@@ -1,5 +1,7 @@
+🇺🇸EN
+
 # Milk-Filter-Android
-Milk-filter-android - An app to convert your photos into the style of the games Milk Outside a bag of milk outside and Milk Inside a bag of milk inside
+<b>Milk-filter-android</b> - An app to convert your photos into the style of the games <b>Milk Outside a bag of milk outside</b> and <b>Milk Inside a bag of milk inside</b>
 
 # How to use
 To convert your image, you need to follow these steps:
