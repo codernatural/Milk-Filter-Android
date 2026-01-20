@@ -7,6 +7,13 @@
 
 <img src="showcase.gif">
 
+# Features 
+
+ - 📱 Completely rewritten in Python + Kivy for Android.
+ - 🎨 Modern UI: New Material/Card UI design.
+ - 🚀 Optimization: Asynchronous image processing without freezing.
+ - 💾 Integration: Support for Android API for saving files and selecting photos.
+
 # How to use
 <b>To convert your image, you need to follow these steps:</b>
  - Before using the app, make sure you have allowed it to access your photos and files.
