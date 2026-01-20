@@ -1,6 +1,6 @@
 Выбор языка(Language choice):
- - [ENGLISH]🇺🇸 EN
- - [Русский] 🇷🇺 RU
+ - [🇺🇸 EN](https://github.com/codernatural/Milk-Filter-Android#ENGLISH)
+ - [🇷🇺 RU](https://github.com/codernatural/Milk-Filter-Android#Русский)
 
 # Milk-Filter-Android
 <b>Milk-filter-android</b> - An app to convert your photos into the style of the games <b>Milk Outside a bag of milk outside</b> and <b>Milk Inside a bag of milk inside</b>
