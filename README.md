@@ -8,6 +8,8 @@ To convert your image, you need to follow these steps:
  - Select parameters and filter mode
  - Click the apply button("Применить")
  - Click the save to gallery button("Сохранить в галерею")
+
+   
 <i>Initially, the photo field will be empty, don't be alarmed by this; after you click the apply filter button, it will appear in processed form.</i>
 
 
