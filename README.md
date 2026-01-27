@@ -8,6 +8,8 @@
 
 [<b>Скачать</b>](https://github.com/codernatural/Milk-Filter-Android/releases/tag/1.1)
 
+<i>Выбери (choise): <b>"milk-filter.apk"</b></i>
+
 ## ENGLISH 
 
 # Milk-Filter-Android
