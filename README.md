@@ -4,9 +4,9 @@
 
  Актуальная рабочая версия (current app version) :
  
-[<b>Download</b>](https://github.com/codernatural/Milk-Filter-Android/releases/tag/1.1)
+[📥 <b>Download</b>](https://github.com/codernatural/Milk-Filter-Android/releases/tag/1.1)
 
-[<b>Скачать</b>](https://github.com/codernatural/Milk-Filter-Android/releases/tag/1.1)
+[📥 <b>Скачать</b>](https://github.com/codernatural/Milk-Filter-Android/releases/tag/1.1)
 
 <i>Выбери (choise): <b>"milk-filter.apk"</b></i>
 
